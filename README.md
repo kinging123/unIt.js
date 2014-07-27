@@ -22,9 +22,9 @@ We say that we want to recieve the value in `m` = Meters. So what we want is bas
 The last parameter is **optional (*But only if you have jQuery!*)**. It says `dist` which stands for Distance. It tells our function that those values are distances and not, for example, weights.
 
 
-### 2: Using the to[unit]() method
+### 2: Using the to{unit}() method
 
-The to[unit]() method is basically a shortcut for the Unit() method above.
+The to{unit}() method is basically a shortcut for the Unit() method above.
 
  **This uses the $.each() method of jQuery, therefore it will not work if you don't have jQuery on your website.**
 
