@@ -80,3 +80,5 @@ var Values = {
 }
 
 ```
+
+# (More To Come! [Stay Tuned](http://projects.karasik.org/updates.php?product=unit.js))
